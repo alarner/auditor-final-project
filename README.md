@@ -6,7 +6,7 @@
 ### Home Page (logged out)
  - [1] Contains buttons to login and register
 
-![home page logged in](mockups/1-home-logged-out.png)
+![home page logged out](mockups/1-home-logged-out.png)
 
 ### Login Page
 - [1] Correct URL
@@ -24,7 +24,7 @@
 - [2] Creates the user account
 - [1] Navigates back to the home page on success
 
-![mockups/4-register.png]
+![register](mockups/4-register.png)
 
 ### Home Page (logged in)
 - [4] Contains a search box that searches product names and displays results in a table
@@ -35,14 +35,14 @@
 - [3] Clicking on a column sorts again the rows in the table by that column (descending)
 - [3] Clicking on a row redirects to the correct view page for that product
 
-![mockups/1-home-logged-in.png]
+![home page logged in](mockups/1-home-logged-in.png)
 
 ### Delete Popup
 - [1] Clicking cancel closes the popup without deleting the product
 - [3] Clicking delete closes the popup and permanently deleted the product
 - [2] Correct product is removed from the home page without refreshing the page
 
-![mockups/5-delete-popup.png]
+![delete popup](mockups/5-delete-popup.png)
 
 ### Add Page
 - [1] Correct URL
@@ -52,14 +52,14 @@
 - [1] Displays server side errors
 - [1] Navigates to the view page for that product on success
 
-![mockups/6-add-product.png]
+![add product](mockups/6-add-product.png)
 
 ### View Page
 - [2] Correct URL
 - [2] If a user tries to access this page without being logged in, they should be redirected to the login page.
 - [3] Displays all product information (name, price quantity, category, description)
 
-![mockups/7-view-product.png]
+![view product](mockups/7-view-product.png)
 
 ### Edit Page
 - [2] Correct URL
@@ -70,7 +70,7 @@
 - [3] Updates the existing product on success
 - [1] Navigates to the view page for that product on success
 
-![mockups/7-edit-product.png]
+![edit product](mockups/7-edit-product.png)
 
 ### Global Navigation
 - [1] Shows clickable logo that takes you to the home page
