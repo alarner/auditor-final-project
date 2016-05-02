@@ -59,7 +59,7 @@
 - [2] If a user tries to access this page without being logged in, they should be redirected to the login page.
 - [3] Displays all product information (name, price quantity, category, description)
 
-![view product](mockups/7-view-product.png)
+![view product](mockups/8-view-product.png)
 
 ### Edit Page
 - [2] Correct URL
