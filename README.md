@@ -6,7 +6,7 @@
 ### Home Page (logged out)
  - [1] Contains buttons to login and register
 
-![mockups/1-home-logged-out.png]
+![home page logged in](mockups/1-home-logged-out.png)
 
 ### Login Page
 - [1] Correct URL
