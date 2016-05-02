@@ -15,7 +15,7 @@
 - [3] Sets the users logged in session
 - [1] Navigates back to the home page on success
 
-![mockups/2-login.png]
+![login](mockups/2-login.png)
 
 ### Register Page
 - [1] Correct URL
@@ -24,7 +24,7 @@
 - [2] Creates the user account
 - [1] Navigates back to the home page on success
 
-![register](mockups/4-register.png)
+![register](mockups/3-register.png)
 
 ### Home Page (logged in)
 - [4] Contains a search box that searches product names and displays results in a table
@@ -35,7 +35,7 @@
 - [3] Clicking on a column sorts again the rows in the table by that column (descending)
 - [3] Clicking on a row redirects to the correct view page for that product
 
-![home page logged in](mockups/1-home-logged-in.png)
+![home page logged in](mockups/4-home-logged-in.png)
 
 ### Delete Popup
 - [1] Clicking cancel closes the popup without deleting the product
