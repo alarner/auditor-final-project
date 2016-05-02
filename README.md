@@ -1,5 +1,7 @@
 # Auditor Final Project Requirements
 
+For your final project you will be building a product inventory database. Wireframes and requirements are included below. Each requirement has the number of points that it is worth in [brackets]. If you have questions on the requirements you can consult with Aaron or Jess.
+
 ### Overall
 - [5] Page stays consistent when refreshed
 
